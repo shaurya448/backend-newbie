@@ -1,0 +1,12 @@
+{
+  "name": "backend-tutorail",
+  "version": "1.0.0",
+  "description": "a backend practice project",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaurya singh",
+  "license": "ISC"
+}
